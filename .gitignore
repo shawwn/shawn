@@ -1,0 +1,12 @@
+.*.swp
+doc
+tags
+build
+target
+ctags.rust
+*.csv
+*.tsv
+main
+*.idx
+builds
+
